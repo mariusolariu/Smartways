@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}D​esign and implementation}{2}
+\contentsline {section}{\numberline {3}State of the art}{4}
+\contentsline {subsection}{\numberline {3.1}Google Maps}{4}
+\contentsline {subsection}{\numberline {3.2}Waze}{4}
+\contentsline {section}{\numberline {4}Usage}{5}
+\contentsline {subsection}{\numberline {4.1}Insert origin}{6}
+\contentsline {subsection}{\numberline {4.2}Insert destination}{6}
+\contentsline {subsection}{\numberline {4.3}Choose between shortest/fastest path}{7}
+\contentsline {subsection}{\numberline {4.4}Hit "Find Path" button}{8}
+\contentsline {section}{\numberline {5}Conclusions}{8}
